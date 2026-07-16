@@ -1,0 +1,1 @@
+ C:\Users\mayur\anaconda3\envs\handtrack\python.exe test.py
