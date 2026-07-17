@@ -1,1 +1,26 @@
  C:\Users\mayur\anaconda3\envs\handtrack\python.exe test.py
+
+
+
+🚀 Here's something I want you to add that most projects don't have
+
+Once the real cursor is working, create a Calibration Mode.
+
+When the app starts, press:
+
+C
+
+It enters calibration.
+
+The user moves their finger to:
+
+Top-left
+Top-right
+Bottom-left
+Bottom-right
+
+The app stores those bounds and automatically adjusts the active region and sensitivity.
+
+This makes the cursor feel much more personalized and is the kind of feature that makes interviewers think, "This wasn't just copied from a tutorial."
+
+I'd build that before adding a dozen gestures. A great cursor experience is the foundation of everyt
